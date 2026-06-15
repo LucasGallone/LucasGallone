@@ -16,7 +16,7 @@ My main areas of interest include terrestrial broadcasting (FM and DAB+), audio 
 * **[AutoLock Plugin for FM-DX Webservers](https://github.com/LucasGallone/FMDX_AutoLock-Plugin)**
   > A plugin to lock the tuning of an FM-DX webserver using a URL argument, with automatic unlocking upon user logout.
 
-### 🎙️ Audio over IP
+### 🎙️ Audio over IP solutions - From studios to transmitter sites
 * **[WestBroadcast Encoder](https://github.com/LucasGallone/WestBroadcast-Encoder)**
   > A multi-output IP audio encoder, mainly dedicated to radio stations, for streaming to Icecast servers, via RTP and through a built-in server. Includes an email alerts sending option.
 * **[WestBroadcast Streamer](https://github.com/LucasGallone/WestBroadcast-Streamer)**
