@@ -15,6 +15,8 @@ My main areas of interest include terrestrial broadcasting (FM and DAB+), audio 
   > RDSExpert integration plugin for FM-DX webservers: An advanced RDS/RBDS decoder which offers many features, decoding of various RDS data and bandscans export in PDF/TXT format.
 * **[AutoLock Plugin for FM-DX Webservers](https://github.com/LucasGallone/FMDX_AutoLock-Plugin)**
   > A plugin to lock the tuning of an FM-DX webserver using a URL argument, with automatic unlocking upon user logout.
+* **[Personal Weather Station Plugin for FM-DX Webservers](https://github.com/LucasGallone/FMDX_PersonalWeatherStation-Plugin)**
+  > A plugin to display real-time data from your personal weather station on your FM-DX webserver.
 
 ### 🎙️ Audio over IP solutions - From studios to transmitter sites
 * **[WestBroadcast Encoder](https://github.com/LucasGallone/WestBroadcast-Encoder)**
