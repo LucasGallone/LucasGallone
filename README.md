@@ -32,4 +32,4 @@ My main areas of interest include terrestrial broadcasting (FM and DAB+), audio 
 * **[ODR-DabMux Generator](https://github.com/LucasGallone/ODR-DabMux-Generator)**
   > An HTML generator with integrated CUs calculator to easily create the configuration file of an ODR DAB+ multiplex with all settings, including the services list. It creates a customized configuration file (in either .info or .mux format) which can then run with the tools of Opendigitalradio.
 * **[ODR-AudioEnc Watchdog](https://github.com/LucasGallone/ODR-AudioEnc_Watchdog)**
-  > A simple Python 3 script that monitors the status of audio encoders in an ODR multiplex and automatically restarts them in the event of a failure, along with their associated PAD encoders.
+  > A zero-dependency Python 3 watchdog script designed to monitor ODR-AudioEnc and associated PAD encoders running under Supervisor for DAB+ multiplexes, and automatically restart them in case of an outage.
