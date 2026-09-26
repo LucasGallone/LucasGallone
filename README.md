@@ -31,5 +31,7 @@ My main areas of interest include terrestrial broadcasting (FM and DAB+), audio 
   > A TII logs file analyzer for AbracaDABra, performing a bandscan synthesis with detailed information and a reception map. This tool can also be used to visualize measurements taken while on the move (in a car for example) to analyze the transmitters received along a route, as well as the reception strength of the multiplex, and much more.
 * **[ODR-DabMux Generator](https://github.com/LucasGallone/ODR-DabMux-Generator)**
   > An HTML generator with integrated CUs calculator to easily create the configuration file of an ODR DAB+ multiplex with all settings, including the services list. It creates a customized configuration file (in either .info or .mux format) which can then run with the tools of Opendigitalradio.
+  > * **[ODR-SPI-Generator](https://github.com/LucasGallone/ODR-SPI-Generator)**
+  > An SPI logos generator for OpenDigitalRadio DAB+ multiplexes that uses logos from a local directory, without requiring an external web server or RadioDNS service.
 * **[ODR-AudioEnc Watchdog](https://github.com/LucasGallone/ODR-AudioEnc_Watchdog)**
   > A zero-dependency Python 3 watchdog script designed to monitor ODR-AudioEnc and associated PAD encoders running under Supervisor for DAB+ multiplexes, and automatically restart them in case of an outage.
